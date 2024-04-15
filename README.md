@@ -5,7 +5,7 @@
 
 
 
-[Look application weather](https://abdelilah-elaziri.github.io/app-weather-react/)
+
 
 
 # Getting Started with Create React App
